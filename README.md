@@ -66,3 +66,6 @@ The optimization query exposed exactly 5 underlying Cardio sessions:
 **Calculation:** 
 (450 + 520 + 380 + 610 + 460) / 5 = **484.0 Average Calories**
 
+---
+## 🔗 Live Interactive Dashboard
+View the full interactive visualization here: [Tableau Public Project Dashboard](https://public.tableau.com/views/WorkoutSQLAnalyticsDashboard/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
